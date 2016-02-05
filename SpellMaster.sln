@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellMaster.Test", "SpellMaster.Test\SpellMaster.Test.csproj", "{62FFE6CF-0C7A-4258-9778-3F29079AF057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellMaster.Vsix", "SpellMaster.Vsix\SpellMaster.Vsix.csproj", "{0E29500A-90AF-4450-BF2E-8C36C50A7FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellMaster.Analyzer", "SpellMaster.Analyzer\SpellMaster.Analyzer.csproj", "{7FB32CCB-9E95-4A99-8923-9A6DD62FAD10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FFE6CF-0C7A-4258-9778-3F29079AF057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FFE6CF-0C7A-4258-9778-3F29079AF057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FFE6CF-0C7A-4258-9778-3F29079AF057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FFE6CF-0C7A-4258-9778-3F29079AF057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E29500A-90AF-4450-BF2E-8C36C50A7FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E29500A-90AF-4450-BF2E-8C36C50A7FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E29500A-90AF-4450-BF2E-8C36C50A7FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E29500A-90AF-4450-BF2E-8C36C50A7FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB32CCB-9E95-4A99-8923-9A6DD62FAD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB32CCB-9E95-4A99-8923-9A6DD62FAD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB32CCB-9E95-4A99-8923-9A6DD62FAD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB32CCB-9E95-4A99-8923-9A6DD62FAD10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
